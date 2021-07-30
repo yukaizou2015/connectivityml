@@ -1,0 +1,15 @@
+Important feature #: 24718
+Node 1: 82.0
+Node 2: 118.0
+Important feature #: 14451
+Node 1: 48.0
+Node 2: 51.0
+Important feature #: 4100
+Node 1: 13.0
+Node 2: 200.0
+Important feature #: 1223
+Node 1: 4.0
+Node 2: 23.0
+Important feature #: 27239
+Node 1: 90.0
+Node 2: 239.0
