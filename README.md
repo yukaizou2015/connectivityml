@@ -1,24 +1,14 @@
 # Introduction
 
-Welcome to the github repository of connectivityml. This is a team project during the [2021 NeuroHackademy](https://neurohackademy.org/neurohack_year/2021/) Hackathon week, where participants split into teams to work on projects of interest. For connectivityml, the team explored using functional connectivity from the Human Connectome Project (HCP) to predict individual characteristics.
+Welcome to the github repository of connectivityml. This is a team project during the [2021 NeuroHackademy](https://neurohackademy.org/neurohack_year/2021/) Hackathon week, where participants split into teams to work on projects of interest (to view all the projects, see [here](https://github.com/neurohackademy/nh2021-projects)). For connectivityml, the team explored using functional connectivity from the Human Connectome Project (HCP) to predict individual characteristics.
 
-The Hackathon presentation may be accessed [here](https://docs.google.com/presentation/d/101WBHWmRxd8VohZk6hZQZg4mVUJ7E0N_X5fWLEVrIaE/edit?usp=sharing).
+To enhance reproducibility, this repository is in the process of being organized into a clean repository, with one jupyter notebook incorporating all the separate pieces of codes.
 
-## Background: The HCP connectivity data set
- - ICA netmats
-
-## Methods: Random Forest
-
-## Interpreting ML results using SHAP
-
-## Optimizing model selection
-
-## Conclusion
+The presentation slides may be accessed [here](https://docs.google.com/presentation/d/101WBHWmRxd8VohZk6hZQZg4mVUJ7E0N_X5fWLEVrIaE/edit?usp=sharing).
 
 ## Codebook / Key Variables
  - Full details can be found [here](https://wiki.humanconnectome.org/display/PublicData/HCP-YA+Data+Dictionary-+Updated+for+the+1200+Subject+Release)
-
-### Selected Behavioral Data
+ - Selected behavioral data:
 
 Column Header | Description
 -|-
