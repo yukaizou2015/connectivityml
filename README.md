@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/yukaizou2015/connectivityml/main/img/banner.jpg)
+
 # Introduction
 
 Welcome to the github repository of connectivityml. This is a team project during the [2021 NeuroHackademy](https://neurohackademy.org/neurohack_year/2021/) Hackathon week, where participants split into teams to work on projects of interest (to view all the projects, see [here](https://github.com/neurohackademy/nh2021-projects)). For connectivityml, the team explored using functional connectivity from the Human Connectome Project (HCP) to predict individual characteristics.
@@ -15,6 +17,10 @@ Column Header | Description
 MMSE_Score | Mini Mental State Examination (MMSE) Completed
 PSQI_Score | Pittsburgh Sleep Quality Index (PSQI) Completed
 Mars_Final | Mars Final Contrast Sensitivity Score
+
+# References
+ - Lundberg, S.M., Lee, S.-I., 2017. [A Unified Approach to Interpreting Model Predictions](https://dl.acm.org/doi/10.5555/3295222.3295230), in: Proceedings of the 31st International Conference on Neural Information Processing Systems, NIPS’17. Curran Associates Inc., Red Hook, NY, USA, pp. 4768–4777.
+ - Zhang C, Dougherty CC, Baum SA, White T, Michael AM. [Functional connectivity predicts gender: Evidence for gender differences in resting brain connectivity](https://doi.org/10.1002/hbm.23950). Hum Brain Mapp. 2018;39(4):1765-1776. 
 
 # Resources
  - [HCP1200 Reference Manual](https://www.humanconnectome.org/storage/app/media/documentation/s1200/HCP_S1200_Release_Reference_Manual.pdf)
